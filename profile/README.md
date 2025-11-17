@@ -24,9 +24,8 @@ useful links.
 
 - [go-task/task](https://github.com/go-task/task)
 - [go-task/vscode-task](https://github.com/go-task/vscode-task)
-- [go-task/action](https://github.com/go-task/action)
+- [go-task/setup-task](https://github.com/go-task/setup-task)
 - [go-task/examples](https://github.com/go-task/examples)
-- [go-task/reproductions](https://github.com/go-task/reproductions)
 
 ## Maintainers
 
