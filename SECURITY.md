@@ -8,4 +8,4 @@ A member of the team will investigate as soon as possible and we will keep you
 updated throughout the process.
 
 You can read more about how we handle security-related issues in our [Incident
-Response Plan](./IRP.md).
+Response Plan](./INCIDENT_RESPONSE_PLAN.md).

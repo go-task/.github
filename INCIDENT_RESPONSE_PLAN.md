@@ -26,7 +26,7 @@ a "best-effort" attempt to help resolve the issue.
 - All security issues should be **privately reported** as described in our
   [SECURITY.md](./SECURITY.md) file.
 - Maintainers should also regularly monitor and respond to:
-  - Pull requests from dependency scanners such as dependabot.
+  - Pull requests from dependency scanners such as Dependabot.
   - GitHub notifications and vulnerability alerts.
   - Messages in community channels such as Discord.
 
@@ -59,7 +59,7 @@ all maintainers are able to contribute to the issue where possible.
     - Stop the affected versions from reaching more users by removing/yanking
       them from GitHub and any distribution channels (NPM/Cloudsmith etc).
     - Rotate any affected secrets.
-    - Rebuild any affected services (website etc).
+    - Rebuild any affected services (website, etc.).
   - It may be difficult to do some of this in cases where packages are
     maintained by the community if we are not yet ready to disclose the
     vulnerability publicly. This should be decided on a case-by-case basis.
@@ -76,7 +76,7 @@ all maintainers are able to contribute to the issue where possible.
   - The impact of the issue.
   - The root cause.
   - The steps taken to resolve.
-- Optionally, create a blog and/or share the information via our socials and
+- Optionally, create a blog post and/or share the information via our socials and
   public communication channels.
 
 ### 🧠 5. Learn
