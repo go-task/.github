@@ -56,8 +56,6 @@ all maintainers are able to contribute to the issue where possible.
 - Stop the bleed.
   - Before attempting to fix the issue, perform any actions that stop the
     problem from becoming worse. For example:
-    - Stop the affected versions from reaching more users by removing/yanking
-      them from GitHub and any distribution channels (NPM/Cloudsmith etc).
     - Rotate any affected secrets.
     - Rebuild any affected services (website, etc.).
   - It may be difficult to do some of this in cases where packages are
