@@ -9,7 +9,8 @@ possible in your report.
 A member of the team will investigate as soon as possible and we will keep you
 updated throughout the process.
 
-You can read more about how we handle security-related issues in our
-[Incident Response Plan](./INCIDENT_RESPONSE_PLAN.md).
+You can read more about how we handle security-related issues in our [Incident
+Response Plan][irp].
 
 [pvr]: https://github.com/go-task/task/security/advisories/new
+[irp]: ./INCIDENT_RESPONSE_PLAN.md

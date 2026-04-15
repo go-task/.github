@@ -24,7 +24,7 @@ a "best-effort" attempt to help resolve the issue.
 ### 🔍 1. Detect
 
 - All security issues should be **privately reported** as described in our
-  [SECURITY.md](./SECURITY.md) file.
+  [security documentation][security-docs].
 - Maintainers should also regularly monitor and respond to:
   - Pull requests from dependency scanners such as Dependabot.
   - GitHub notifications and vulnerability alerts.
@@ -82,3 +82,5 @@ a "best-effort" attempt to help resolve the issue.
 - Document the disclosure in a permanent location.
 - Make and document any changes that can be made to prevent similar issues from
   arising in the future.
+
+[security-docs]: ./SECURITY.md
