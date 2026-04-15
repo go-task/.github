@@ -8,12 +8,10 @@ on GitHub. If you want to help, but you're not sure where to start, you can
 check out our list of
 [good first issues](https://github.com/go-task/task/contribute).
 
-::: info
-
-This document applies to the core [Task][task] repository _and_ [Task for Visual
-Studio Code][vscode-task].
-
-:::
+> [!NOTE]
+>
+> This document applies to the core [Task][task] repository _and_ [Task for
+> Visual Studio Code][vscode-task].
 
 ## AI Usage Policy
 
